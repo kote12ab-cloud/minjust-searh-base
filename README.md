@@ -15,6 +15,9 @@ lxml
 ⚙️ Запуск (пример) 
 Перед запуском: 
 
+	Перейти на сайт https://minjust.gov.ru/ru/extremist-materials/ - > Скачать в формате .csv
+	Разместить .csv в директории с bot.py 
+
     Установи зависимости: pip install - .....
     Укажи токен Telegram-бота через переменную окружения: BOT_TOKEN=123:abc...
      
